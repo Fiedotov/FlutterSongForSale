@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316804099882",
+    "project_id": "inapp-2011",
+    "storage_bucket": "inapp-2011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316804099882:android:c455f763f9069a8a22f853",
+        "android_client_info": {
+          "package_name": "effexxion.relax.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316804099882-4jqq4eh0sp638repnmimbfd3slmpu9s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QIkKP6JuBs53c_COrKjynFqu660HgDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316804099882-4jqq4eh0sp638repnmimbfd3slmpu9s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
